@@ -39,7 +39,7 @@ This project applies **machine learning models** to predict the severity of traf
  - project-folder/ 
     - │── Heatmap.zip 
     - │── notebooks/  
-       - │ ├── data_visualization.ipynb # Exploratory Data Analysis (EDA) 
-       - │ ├── modeling.ipynb           # Machine Learning modeling & evaluation 
+       - │├── data_visualization.ipynb # Exploratory Data Analysis (EDA) 
+       - │├── modeling.ipynb           # Machine Learning modeling & evaluation 
     - │── severity.html 
     - |── README.md # Project documentation (this file)
