@@ -36,10 +36,10 @@ This project applies **machine learning models** to predict the severity of traf
   - `tensorflow` & `keras` (Neural Networks)
 
 ## 📂 Repository Structure
-project-folder/ 
-│── Heatmap.zip
-│── notebooks/ 
-│ ├── data_visualization.ipynb # Exploratory Data Analysis (EDA) 
-│ ├── modeling.ipynb # Machine Learning modeling & evaluation │── src/
-│── severity.html
+project-folder/ \\
+│── Heatmap.zip \\
+│── notebooks/  \\
+│ ├── data_visualization.ipynb # Exploratory Data Analysis (EDA) \\
+│ ├── modeling.ipynb           # Machine Learning modeling & evaluation \\
+│── severity.html \\
 |── README.md # Project documentation (this file)
