@@ -41,13 +41,12 @@ This project applies **machine learning models** to predict the severity of traf
        - │├── data_visualization.ipynb # Exploratory Data Analysis (EDA) 
        - │├── modeling.ipynb           # Machine Learning modeling & evaluation
     - │── Heatmap.zip                  # 📥 Download to view the interactive severity map
-    - │── severity.html                # 📥 Download to view the interactive severity map
+    - │── severity.html                # Use the link below
     - |── README.md # Project documentation (this file)
 
 ### 🔍 Interactive Visualizations
 Click the links below to view the interactive maps:
-
-- **[View Heatmap](https://raw.githack.com/your-username/your-repo/main/heatmap.html)**
-- **[View Severity Map]([https://raw.githack.com/your-username/your-repo/main/severity.html](https://raw.githack.com/ltungtse/295_Final_W2025/refs/heads/main/severity.html))**
+- **[View Severity Map](https://raw.githack.com/ltungtse/295_Final_W2025/refs/heads/main/severity.html)**
+- Heatmap.zip – Unzip and open in a web browser to view the heatmap of collision density.
 
 If the links don’t work, download the files and open them in a browser manually.
