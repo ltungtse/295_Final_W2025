@@ -37,9 +37,14 @@ This project applies **machine learning models** to predict the severity of traf
 
 ## 📂 Repository Structure
  - project-folder/ 
-    - │── Heatmap.zip 
     - │── notebooks/  
        - │├── data_visualization.ipynb # Exploratory Data Analysis (EDA) 
-       - │├── modeling.ipynb           # Machine Learning modeling & evaluation 
-    - │── severity.html 
+       - │├── modeling.ipynb           # Machine Learning modeling & evaluation
+    - │── Heatmap.zip                  # 📥 Download to view the interactive severity map
+    - │── severity.html                # 📥 Download to view the interactive severity map
     - |── README.md # Project documentation (this file)
+
+## 🔍 Interactive Visualizations
+ - To explore the interactive maps, download the following files:
+   - Heatmap.zip – Unzip and open in a web browser to view the heatmap of collision density.
+   - severity.html – Open this HTML file in a web browser to visualize the severity distribution of crashes.
