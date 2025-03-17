@@ -46,7 +46,7 @@ This project applies **machine learning models** to predict the severity of traf
 
 ### 🔍 Interactive Visualizations
 Click the links below to view the interactive maps:
-- **[View Severity Map](https://raw.githack.com/ltungtse/295_Final_W2025/refs/heads/main/severity.html)**
 - Heatmap.zip – Unzip and open in a web browser to view the heatmap of collision density.
+- **[View Severity Map](https://raw.githack.com/ltungtse/295_Final_W2025/refs/heads/main/severity.html)**
 
-If the links don’t work, download the files and open them in a browser manually.
+If the link doesn’t work, download the file and open it in a browser manually.
